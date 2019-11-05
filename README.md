@@ -15,9 +15,8 @@ We review machine learning project's pipeline in detail and get an understanding
 - Broadcasting
 
 ### [3. HAND WRITTEN DIGIT RECOGNITION (TORCH)](https://github.com/Bourn23/CNN_Summer_Class/blob/master/nbs/3.%20HODA%20-%20Digit%20Recognition%20with%20PyTorch.ipynb)
-One application of Neural Networks in the area of computer vision is handwritten digit recognition. We go over the process of designing a pipeline for that purpose.
+One application of Neural Networks in the area of computer vision is handwritten digit recognition. We go over the process of designing a pipeline for that purpose and experimenting with two different neural networks
 - Preprocessing
-and experimented with two different neural networks
 - Multi Layer Perceptron (MLP)
 - Convolutional Neural Networks (CNN)
 
