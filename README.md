@@ -1,5 +1,5 @@
 ## Neurals Networks and Its Application in Computer Vision
-This course is aimed to respond to the question: **What are the key steps in designing a deep learning pipeline**
+This course is aimed to respond to the question: **What are the key steps in solving a computer vision task using NNs**
 
 **NOTE**: Most of the materials in the notebooks are discussed in the class, rather than the notebook itself, and these notebooks are supplementary materials for the class.
 
